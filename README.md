@@ -1,4 +1,4 @@
-# Expense Tracker App
+# expense_tracker
 
 An expense tracker application made for Android through Flutter by using Dart.
 
